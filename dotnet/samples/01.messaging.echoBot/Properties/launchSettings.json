@@ -3,7 +3,7 @@
 		"Microsoft Teams (browser)": {
 			"commandName": "Project",
 			"launchBrowser": true,
-			"launchUrl": "https://teams.microsoft.com/l/app/7fba057c-a3c2-4fdb-af94-677752f984df?installAppPackage=true&webjoin=true&appTenantId=06eed516-3590-4ef5-be50-681761c1627a&login_hint=aj@ajenns.com",
+			"launchUrl": "https://teams.microsoft.com/l/app/09259381-17b2-45bb-b681-5efff9fb05bb?installAppPackage=true&webjoin=true&appTenantId=12386fcb-aa5d-4182-b5d3-686b0cd6cdf0&login_hint=aj@MngEnvMCAP098458.onmicrosoft.com",
 			"environmentVariables": {
 				"ASPNETCORE_ENVIRONMENT": "Development"
 			},
